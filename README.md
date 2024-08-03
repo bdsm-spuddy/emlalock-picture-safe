@@ -141,3 +141,10 @@ Safe unlocked
 ```
 
 9. From the Safe Web UI open the safe and retrieve the key.
+
+# DISCLAIMER
+
+If this code breaks for any reason and your safe can't be opened, then
+I will not be held liable.  This code is provided with no warranty
+whatsoever.  Always have an emergency escape process
+
